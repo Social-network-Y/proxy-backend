@@ -1,0 +1,3 @@
+[submodule "src/proto_definitions_auth"]
+	path = src/proto_definitions_auth
+	url = https://github.com/Social-network-Y/proto_definitions_auth.git
